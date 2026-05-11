@@ -13,6 +13,10 @@ Request a repo health check:
 
 https://github.com/xcapselx/repo-health-checks/issues/new/choose
 
+Self-serve kit:
+
+https://designsy1.gumroad.com/l/toksiz
+
 Service details:
 
 https://github.com/xcapselx/repo-health-checks
